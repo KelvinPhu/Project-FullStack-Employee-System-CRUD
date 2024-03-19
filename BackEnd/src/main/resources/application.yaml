@@ -1,0 +1,17 @@
+# configuration with application.yml file
+spring:
+  datasource:
+    url: jdbc:sqlserver://THIEN-PHU:1433;databaseName=PracticeJavaSpringReactJS;encrypt=false
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    username: sa
+    password: 123456789Thien_Phu
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServerDialect
+    show-sql: true
+
+---

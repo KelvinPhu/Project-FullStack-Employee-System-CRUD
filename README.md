@@ -85,11 +85,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
     <img width="30px" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" />
     <img width="30px" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="30px" alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" alt="MySQL" src="https://github.com/KelvinPhu/icon/assets/102346766/eafba208-2b4d-46ce-81a9-309cc737b57f" />
+    <img width="30px" alt="MySQL" src="https://github.com/KelvinPhu/Project-FullStack-Employee-System-CRUD/assets/102346766/841f48b6-5559-4d17-9917-90cc086827c3" />
   </kbd>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->

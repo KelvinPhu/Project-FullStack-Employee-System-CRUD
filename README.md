@@ -51,7 +51,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![example](https://github.com/KelvinPhu/icon/assets/102346766/41f49399-9c63-4210-99c4-0faa14e88c49)
+![316375470-41f49399-9c63-4210-99c4-0faa14e88c49](https://github.com/KelvinPhu/Project-FullStack-Employee-System-CRUD/assets/102346766/179199ee-ef4b-4bbd-a5fd-d50d2542dff4)
+
 
 The Project-FullStack-Employee-System-CRUD is a comprehensive application designed to manage employee data effectively through a user-friendly interface. This project integrates a backend API, crafted in Java, with a frontend developed in ReactJS, offering a seamless interaction experience for users. Here's a brief overview of its core functionalities:
 

@@ -189,7 +189,7 @@ To add a new employee, navigate to the "Add Employee" section of the application
 
 `$ Example:`
 
-![example2](https://github.com/KelvinPhu/icon/assets/102346766/113132af-ec0f-491b-8a10-50c5ae837410)
+![1](https://github.com/KelvinPhu/Project-FullStack-Employee-System-CRUD/assets/102346766/20405ba3-145a-40eb-ad53-c65c78fc6fa0)
 
 `$ code example`
 ```
@@ -213,12 +213,13 @@ fetch('http://localhost:8080/api/employees', {
 ### Viewing Employee Details
 The main dashboard lists all employees. Click on an employee's name to view more detailed information about their profile. This page will display all the relevant information, such as contact details, department, and job title.
 
-![viewEmployee](https://github.com/KelvinPhu/icon/assets/102346766/4f64c734-e003-45a3-b879-8f2d4e58fcad)
+![2](https://github.com/KelvinPhu/Project-FullStack-Employee-System-CRUD/assets/102346766/aa484109-fecf-4d90-ad0a-6436d0ccbcad)
 
 ### Updating Employee Information
 To update an employee's information, navigate to the employee's detail page and click the "Edit" button. Modify the fields as needed in the form and submit it to update the employee's details in the database.
 
-![editEmployee](https://github.com/KelvinPhu/icon/assets/102346766/1ed2bc88-1a6f-463e-bba4-b4ca6a24c1cd)
+![3](https://github.com/KelvinPhu/Project-FullStack-Employee-System-CRUD/assets/102346766/8fc3a63e-eaad-4e44-bd32-98e1635b37ed)
+
 
 `$ Example:`
 

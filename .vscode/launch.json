@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PracticeJavaSpringReactJsApplication<PracticeJavaSpringReactJS>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.SpringReactJS.PracticeJavaSpringReactJS.PracticeJavaSpringReactJsApplication",
+            "projectName": "PracticeJavaSpringReactJS",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

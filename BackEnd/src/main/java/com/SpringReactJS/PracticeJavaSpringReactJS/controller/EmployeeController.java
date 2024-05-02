@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-@CrossOrigin(origins = "http://localhost:3000/")
+@CrossOrigin(origins = "https://employeesystem-frontend-b0a1d3b1aa8e.herokuapp.com/")
 @RestController
 @RequestMapping("/api/main")
 public class EmployeeController {

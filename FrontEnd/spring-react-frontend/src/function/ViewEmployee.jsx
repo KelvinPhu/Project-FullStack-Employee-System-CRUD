@@ -17,7 +17,7 @@ export default function ViewEmployee() {
     }, []);
 
     const loadEmployee = async () => {
-        const result = await axios.get(`http://localhost:8080/api/main/employee/${id}`);
+        const result = await axios.get(`https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee/${id}`);
         setEmployee(result.data);
     }
 

@@ -13,12 +13,12 @@ export default function Home() {
     }, [])
 
     const loadEmployee = async () => {
-        const result = await axios.get("http://localhost:8080/api/main/employee");
+        const result = await axios.get("https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee");
         setEmployee(result.data);
     }
 
     const deleteEmployee = async (id) => {
-        await axios.delete(`http://localhost:8080/api/main/employee/${id}`);
+        await axios.delete(`https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee/${id}`);
         loadEmployee()
     }
 

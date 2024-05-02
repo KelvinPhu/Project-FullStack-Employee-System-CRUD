@@ -26,12 +26,12 @@ export default function EditEmployee() {
 
     const onSubmit = async (e) => {
         e.preventDefault();
-        await axios.put(`http://localhost:8080/api/main/employee/${id}`, employee);
+        await axios.put(`https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee/${id}`, employee);
         navigate("/")
     };
 
     const loadEmployee = async () => {
-        const result = await axios.get(`http://localhost:8080/api/main/employee/${id}`);
+        const result = await axios.get(`https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee/${id}`);
         setEmployee(result.data);
     };
 

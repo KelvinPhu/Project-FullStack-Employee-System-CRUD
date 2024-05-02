@@ -19,7 +19,7 @@ export default function AddEmployee() {
     
     const onSubmit = async (e) => {
         e.preventDefault();
-        await axios.post("http://localhost:8080/api/main/employee", employee);
+        await axios.post("https://employeesystem-c803af2aa6e5.herokuapp.com/api/main/employee", employee);
         navigate("/")
     }
 

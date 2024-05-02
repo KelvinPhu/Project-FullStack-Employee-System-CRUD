@@ -1,10 +1,10 @@
 # configuration with application.yml file
 spring:
   datasource:
-    url: jdbc:sqlserver://THIEN-PHU:1433;databaseName=PracticeJavaSpringReactJS;encrypt=false
+    url: jdbc:sqlserver://employee-system.cbwmca88oqto.ap-southeast-2.rds.amazonaws.com:1433;databaseName=PracticeJavaSpringReactJS;encrypt=false
     driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
-    username: sa
-    password: 123456789Thien_Phu
+    username: admin
+    password: password
 
   jpa:
     hibernate:

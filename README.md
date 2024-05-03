@@ -4,7 +4,7 @@
 
   <h1 align="center">Project FullStack Employee System CRUD</h1>
 
-  <h3> <a href="https://employeesystem-frontend-b0a1d3b1aa8e.herokuapp.com/">Live Website</a></h3>
+  <h3> <a href="https://employeesystem-frontend-b0a1d3b1aa8e.herokuapp.com/" target="_blank">Live Website</a></h3>
 
   <p align="center">
     An application designed to manage employee data effectively

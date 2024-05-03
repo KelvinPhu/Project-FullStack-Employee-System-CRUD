@@ -4,17 +4,11 @@
 
   <h1 align="center">Project FullStack Employee System CRUD</h1>
 
+  <h3> <a href="https://employeesystem-frontend-b0a1d3b1aa8e.herokuapp.com/">Live Website</a></h3>
+
   <p align="center">
     An application designed to manage employee data effectively
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="">View Demo</a>
-    ·
-    <a href="">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
   </p>
 </div>
 
